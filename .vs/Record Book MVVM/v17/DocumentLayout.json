@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\Record Book MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0346DF18-CB7F-4C20-AB56-F5CBFF871218}|Record Book MVVM\\Record Book MVVM.csproj|c:\\users\\giolga\\desktop\\myprojects\\record book mvvm\\record book mvvm\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0346DF18-CB7F-4C20-AB56-F5CBFF871218}|Record Book MVVM\\Record Book MVVM.csproj|solutionrelative:record book mvvm\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\Record Book MVVM\\Record Book MVVM\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Record Book MVVM\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\MyProjects\\Record Book MVVM\\Record Book MVVM\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Record Book MVVM\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:40:53.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

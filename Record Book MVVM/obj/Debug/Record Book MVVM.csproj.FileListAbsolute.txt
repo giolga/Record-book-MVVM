@@ -1,0 +1,17 @@
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Record Book MVVM.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Views\AddUser.g.cs
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\App.g.cs
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Record Book MVVM_MarkupCompile.cache
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Record Book MVVM_MarkupCompile.lref
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\bin\Debug\Record Book MVVM.exe.config
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\bin\Debug\Record Book MVVM.exe
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\bin\Debug\Record Book MVVM.pdb
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Views\AddUser.baml
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Record Book MVVM.g.resources
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Record_Book_MVVM.Properties.Resources.resources
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Record Book MVVM.csproj.GenerateResource.cache
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Record Book MVVM.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Record Book MVVM.exe
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Record Book MVVM.pdb
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Views\MainWindow.g.cs
+C:\Users\GioLGA\Desktop\MyProjects\Record Book MVVM\Record Book MVVM\obj\Debug\Views\MainWindow.baml
